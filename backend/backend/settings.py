@@ -61,7 +61,6 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
 
-
 DATABASES = {
     'default': {
         # Меняем настройку Django: теперь для работы будет использоваться
